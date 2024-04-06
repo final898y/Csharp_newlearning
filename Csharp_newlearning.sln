@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_SwitchDisplay", "04_Swit
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05_LoopSamples", "05_LoopSamples\05_LoopSamples.csproj", "{BF248933-D7A0-4BD8-9867-152CB89B295F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_JumpSamples", "06_JumpSamples\06_JumpSamples.csproj", "{88693CE8-8DF5-407E-834B-D2F08A2DB000}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{BF248933-D7A0-4BD8-9867-152CB89B295F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF248933-D7A0-4BD8-9867-152CB89B295F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF248933-D7A0-4BD8-9867-152CB89B295F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88693CE8-8DF5-407E-834B-D2F08A2DB000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88693CE8-8DF5-407E-834B-D2F08A2DB000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88693CE8-8DF5-407E-834B-D2F08A2DB000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88693CE8-8DF5-407E-834B-D2F08A2DB000}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

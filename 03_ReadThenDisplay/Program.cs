@@ -1,6 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-using System.ComponentModel.Design;
+/*
+C# 基礎課程 01
+*/
 
 /*
 int x = 1;

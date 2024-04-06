@@ -1,5 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+/*
+C# 基礎課程 01
+*/
+
 int result1 = 0;
 for (int i=0; i<11; i++)
 {

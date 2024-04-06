@@ -1,5 +1,12 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+/*
+Build School 課程 – C# 基礎課程 01
+Bill Chung 
+Build School 講師 
+V2021.3 台北夏季班 
+*/
+
 int x = 1;
 switch (x)
 {

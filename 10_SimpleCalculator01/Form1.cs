@@ -31,7 +31,11 @@ namespace _10_SimpleCalculator01
             int y = int.Parse(textBox2.Text);
             label1.Text = (x - y).ToString();
         }
-        
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
     
 }

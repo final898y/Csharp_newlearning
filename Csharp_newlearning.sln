@@ -23,7 +23,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_MyFirstWinForm", "09_MyF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_SimpleCalculator01", "10_SimpleCalculator01\10_SimpleCalculator01.csproj", "{91000F96-C295-44D9-AD75-99F95026E7F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculator02", "SimpleCalculator02\SimpleCalculator02.csproj", "{0D13D3C3-AE34-4B5E-AE49-1B8CF7A90C78}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_SimpleCalculator02", "11_SimpleCalculator02\11_SimpleCalculator02.csproj", "{0D13D3C3-AE34-4B5E-AE49-1B8CF7A90C78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_SimpleCalculator03", "12_SimpleCalculator03\12_SimpleCalculator03.csproj", "{0F3BE19E-AD59-4BF1-9F8D-D40FF421F14B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{0D13D3C3-AE34-4B5E-AE49-1B8CF7A90C78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D13D3C3-AE34-4B5E-AE49-1B8CF7A90C78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D13D3C3-AE34-4B5E-AE49-1B8CF7A90C78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F3BE19E-AD59-4BF1-9F8D-D40FF421F14B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F3BE19E-AD59-4BF1-9F8D-D40FF421F14B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F3BE19E-AD59-4BF1-9F8D-D40FF421F14B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F3BE19E-AD59-4BF1-9F8D-D40FF421F14B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
